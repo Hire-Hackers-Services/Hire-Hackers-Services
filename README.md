@@ -8,6 +8,9 @@
 We offer professional ethical hacking services including network penetration testing, app penetration, website cracking, Instagram security cracking, Facebook security cracking, location tracking security. Our expert team provides threat detection, penetration testing, and APT analysis.
 Website: https://hacker.bz
 
+我们提供专业的道德黑客服务，包括网络渗透测试、应用渗透、网站破解、Instagram安全破解、Facebook安全破解、定位追踪安全。我们的专家团队提供威胁检测、渗透测试和APT分析。
+Website: https://hacker.bz/zh-CN
+
 Wir bieten professionelle ethische Hacking-Dienste an, einschließlich Netzpenetrationstests, App-Penetration, Website-Hacking, Instagram-Sicherheitshacking, Facebook-Sicherheitshacking und Standortverfolgungssicherheit. Unser Expertenteam bietet Bedrohungserkennung, Penetrationstests und APT-Analyse.
 Website: https://hacker.bz/de
 
